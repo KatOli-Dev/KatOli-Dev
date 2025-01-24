@@ -1,4 +1,4 @@
 # KatOli-Dev
-> ⚠️ *As of writing this, my stuff is currently private. This probably wont be true in the future.* ⚠️
+> Some of my stuff is public now!
 
 I am Oli (he/him). Programming is my favorite hobby.
